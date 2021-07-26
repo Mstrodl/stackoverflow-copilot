@@ -11,7 +11,8 @@ Like GitHub Copilot, but worse! Imports the first codeblock of the first answer 
 
 ## Testimonials
 
-* ![NotNite hoy a las 23:12 writes "yeah, anyways saw your stack overflow esmodule import and in the nicest way possible please stop programming"](https://raw.githubusercontent.com/Mstrodl/stackoverflow-copilot/master/testimonials/julian.png)
+* ![NotNite — hoy a las 23:12 writes "yeah, anyways saw your stack overflow esmodule import and in the nicest way possible please stop programming"](https://raw.githubusercontent.com/Mstrodl/stackoverflow-copilot/master/testimonials/julian.png)
+* ![adryd — hoy a las 23:23 writes "im sorry what the fuck is stackoverflow copilot"](https://raw.githubusercontent.com/Mstrodl/stackoverflow-copilot/master/testimonials/ari.png)
 
 ## Recommended reading
 
