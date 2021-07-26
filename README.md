@@ -13,6 +13,10 @@ Like GitHub Copilot, but worse! Imports the first codeblock of the first answer 
 
 * [hiptofuckscripts](https://github.com/Mstrodl/hiptofuckscripts): this, but for TypeScript
 
+## Testimonials
+
+* ![NotNite hoy a las 23:12 writes "yeah, anyways saw your stack overflow esmodule import and in the nicest way possible please stop programming"](https://raw.githubusercontent.com/Mstrodl/stackoverflow-copilot/master/testimonials/julian.png)
+
 ## Why?
 
 Blame [@galenguyer](https://github.com/galenguyer)
