@@ -1,0 +1,10 @@
+pnpm-debug.log
+dist
+.cache
+.tern-port
+package-lock.json
+*~
+\#*\#
+node_modules
+yarn-error.log
+npm-error.log
